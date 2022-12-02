@@ -1,0 +1,15 @@
+.pagination {
+    display: flex;
+    justify-content: space-around;
+    margin: 2em 1em;
+}
+
+.button {
+    cursor: pointer;
+    padding: .5em;
+    background: #f7f6f0;
+}
+
+.button:hover {
+    background: #ababa4;
+}
